@@ -45,9 +45,20 @@ p {
     line-height: 1.6rem;
     padding-left: 30px;
     padding-right: 30px;
-
 }
 
+a {
+    color: #50cbc1;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    color: #411135;
+}
 
 @media all and (min-width:900px) {
     #container {
