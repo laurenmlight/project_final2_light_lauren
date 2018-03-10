@@ -91,6 +91,10 @@ a:active {
     background: linear-gradient(#50cbc1, #47b6ad);
 }
 
+footer {
+    padding: 60px;
+}
+
 @media all and (min-width:900px) {
     #container {
         width: 900px;
