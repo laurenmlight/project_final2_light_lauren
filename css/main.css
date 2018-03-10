@@ -20,16 +20,17 @@ html {
 body {
     font-family: 'Quicksand', sans-serif;
     background-color: #fffbfd;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 h1{
     color: #d30176;
     font-weight: 700;
     letter-spacing:  .2rem;
-    text-align: center;
     font-size: 1.6rem;
-    padding-left: 5px;
-    padding-right: 5px;
+
 }
 
 h2 {
