@@ -42,7 +42,7 @@ p {
     font-weight: 400;
     font-size: .8rem;
     line-height: 1.6rem;
-    padding: 0px 30px;
+    padding: 30px;
 }
 
 a {
@@ -80,5 +80,9 @@ a:active {
         width: 900px;
         display: block;
         margin: auto;
+    }
+
+    p {
+        padding: 70px;
     }
 }
