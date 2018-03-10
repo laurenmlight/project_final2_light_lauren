@@ -58,6 +58,18 @@ a:active {
     color: #411135;
 }
 
+#photobar {
+    background-color: white;
+    box-shadow: 1px 0px 10px  #b7b7b7;
+    padding: 60px 20px;
+    border-radius: 2px;
+}
+
+.photos {
+    width: 250px;
+    margin: 10px;
+}
+
 .button {
     background: linear-gradient(#87ded7, #50cbc1);
     color: #fffbfd;
