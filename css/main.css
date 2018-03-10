@@ -82,7 +82,17 @@ a:active {
         margin: auto;
     }
 
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
     p {
-        padding: 70px;
+        padding: 60px;
+        font-size: 1.4rem;
+        line-height: 2.5rem;
     }
 }
