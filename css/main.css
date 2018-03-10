@@ -71,6 +71,9 @@ a:active {
     box-shadow: 1px 1px 10px  #b7b7b7;
 }
 
+.button:hover {
+    background-color: #47b7ae;
+}
 
 @media all and (min-width:900px) {
     #container {
