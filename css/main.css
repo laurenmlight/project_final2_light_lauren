@@ -15,11 +15,12 @@ html {
 }
 
 #container {
-    background-color: #fffbfd;
+
 }
 
 body {
     font-family: 'Quicksand', sans-serif;
+    background-color: #fffbfd;
 }
 
 h1{
