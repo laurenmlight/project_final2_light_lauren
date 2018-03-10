@@ -58,12 +58,16 @@ a:active {
     color: #411135;
 }
 
+/** may not use
+
  #photobar {
     background-color: white;
     box-shadow: 1px 0px 10px  #b7b7b7;
     padding: 60px 20px;
     border-radius: 2px;
 }
+
+**/
 
 .photos {
     width: 250px;
