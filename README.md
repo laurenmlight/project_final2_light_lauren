@@ -3,11 +3,11 @@
 * 3/11/18
 
 ## Links
-* [Github Repo link](https://github.com/laurenmlight/project_final_light_lauren)
-* [Web host](http://www.lightcreativestudio.com/project_final_light_lauren/)
-* [W3C Validator - HTML](https://validator.w3.org/check?uri=https%3A%2F%2Fjigsaw.w3.org%2Fcss-validator%2Fvalidator%3Furi%3Dhttp%253A%252F%252Fwww.lightcreativestudio.com%252Fproject_transformation_light_lauren%252F%26profile%3Dcss3svg%26usermedium%3Dall%26warning%3D1%26vextwarning%3D%26lang%3Den&charset=%28detect+automatically%29&doctype=Inline&group=0)
-* [W3C Validator - CSS](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.lightcreativestudio.com%2Fproject_transformation_light_lauren%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-* [HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.lightcreativestudio.com%2Fproject_transformation_light_lauren%2F)
+* [Github Repo link](https://github.com/laurenmlight/project_final2_light_lauren)
+* [Web host](http://www.lightcreativestudio.com/project_final2_light_lauren/)
+* [W3C Validator - HTML](https://validator.w3.org/nu/?doc=http%3A%2F%2Flightcreativestudio.com%2Fproject_final2_light_lauren%2F)
+* [W3C Validator - CSS](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Flightcreativestudio.com%2Fproject_final2_light_lauren%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+* [HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Flightcreativestudio.com%2Fproject_final2_light_lauren%2F)
 
 ## Resources
 
